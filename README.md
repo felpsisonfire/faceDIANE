@@ -15,6 +15,8 @@ A face DetectIon ANd idEntification comand line using OpenCV
 
 # Using
 
+`python3 diane.py [footage-directory] [cascade-model-directory]
+ 
 # Features
 Detect faces and recognize if is a familiar face or not.
 
